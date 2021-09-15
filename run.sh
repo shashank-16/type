@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cd build; ./type $1; 
+cd build; ./type $1;
+
